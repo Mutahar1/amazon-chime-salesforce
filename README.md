@@ -202,9 +202,9 @@ handleStartRecording() {
 ## Related Projects
 
 Check out my other Salesforce integrations:
-- [Payment Gateway Integration](../payment-gateway-integration) - Secure payment processing in Salesforce
-- [AI-Powered Case Summary](../ai-case-summary) - Einstein AI integration
-- [Email Threading System](../email-threading-system) - Custom email automation
+- [Payment Gateway Integration](https://github.com/Mutahar1/payment-gateway-integration) - Secure payment processing in Salesforce
+- [AI-Powered Case Summary](https://github.com/Mutahar1/agentforce-ai-case-summary) - Einstein AI integration
+- [Email Threading System](https://github.com/Mutahar1/email-threading-system) - Custom email automation
 
 ---
 
